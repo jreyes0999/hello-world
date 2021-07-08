@@ -7,20 +7,20 @@
 
 *dragonfly*
 
-[ Choose ]
+
 **dragonfly**
 
-[ Choose ]
+
 * dragonfly
 
-[ Choose ]
+
 > dragonfly
 
-[ Choose ]
+
 # dragonfly
 
-[ Choose ]
+
 & dragonfly
 
-[ Choose ]
+
 `dragonfly`
